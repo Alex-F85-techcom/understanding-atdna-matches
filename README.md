@@ -1,4 +1,4 @@
-# Understanding autosomal DNA Matches
+# Understanding Autosomal DNA Matches
 
 ## Overview
 This document explains how DNA matches are identified using shared autosomal DNA segments and how these are used to estimate relationships between individuals.
@@ -17,7 +17,7 @@ This Guide is intended for
 - Individuals with an interest in basic genetic genealogy
 
 ## Document
-(./Understanding_atDNA_Matches.pdf)
+[Download the document here](./Understanding_atDNA_Matches.pdf)
 
 ## Notes
 This document is intended as a sample of user-focused technical writing. It demonstrates the ability to explain complex scientific concepts in a clear, structured, and accessible manner.
