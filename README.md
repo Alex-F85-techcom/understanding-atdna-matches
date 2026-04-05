@@ -5,8 +5,8 @@ This document explains how DNA matches are identified using shared autosomal DNA
 
 ## What This Article Covers
 - Key concepts in genetic genealogy (e.g. SNPs, centimorgans, DNA segments)
-- How DNA matching works in consumer testing platforms
-- How shared DNA translates into relationship estimates
+- How DNA matching works in commerical testing platforms
+- How shared DNA segments translate into relationship estimates
 - Factors affecting match validity and reliability
 - Common user questions and practical interpretations of results
 
@@ -17,7 +17,7 @@ This Guide is intended for
 - Individuals with an interest in basic genetic genealogy
 
 ## Document
-[Download the document here](./Understanding_atDNA_Matches.pdf)
+[Download the full article here](./Understanding_atDNA_Matches.pdf)
 
 ## Notes
 This document is intended as a sample of user-focused technical writing. It demonstrates the ability to explain complex scientific concepts in a clear, structured, and accessible manner.
